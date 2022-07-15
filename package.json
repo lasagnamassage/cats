@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lasagnamassage/cats#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1"
   }
 }
