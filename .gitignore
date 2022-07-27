@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# rust port
+rust-port/debug/
+rust-port/target/
+rust-port/Cargo.lock
+rust-port/**/*.rs.bk
+Rust-port/*.pdb
